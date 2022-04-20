@@ -7,7 +7,6 @@
   I'm a <strong>Frontend Developer</strong> and <strong>UX/UI Designer</strong> with 2 years of professional experience.<br />I enjoy contributing to women in tech!
 </p>
 
----
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -46,7 +45,7 @@
 <br />
 <br />
 
----
+--------------------------------
 
 [website]: https://renatahdo.tech/
 [instagram]: https://www.instagram.com/renata.journal/
