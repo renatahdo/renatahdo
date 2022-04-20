@@ -1,4 +1,7 @@
-# Hi there, I'm Renata - aka [codeSTACKr][website] 👋 
+<p align="center" width="300">
+   <img align="center" width="200" src="./img/profile-pic.svg" />
+   <h3 align="center">Hey 🧜🏻‍♀️! I'm Renata 👩🏻‍💻</h3>
+</p>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
