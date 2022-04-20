@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="./img/profile-pic.svg" />
+   <img align="center" width="200" src="./img/profile-pic.png" />
    <h3 align="center">Hey 🧜🏻‍♀️! I'm Renata 👩🏻‍💻</h3>
 </p>
 
